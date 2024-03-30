@@ -1,0 +1,21 @@
+{
+  "name": "freesessionreact",
+  "version": "1.0.0",
+  "description": "this is example to showcase the react example",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "readme.txt"
+  },
+  "keywords": [
+    "exmpale",
+    "react",
+    "first",
+    "app"
+  ],
+  "author": "kisan pawar",
+  "license": "ISC"
+}
